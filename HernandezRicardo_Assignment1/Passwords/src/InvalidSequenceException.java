@@ -1,5 +1,6 @@
 /**
  * Thrown when the password contains more than 2 of the same character in sequence
+ * @author Ricardo Hernandez
  */
 public class InvalidSequenceException extends Exception{
 	public InvalidSequenceException() {

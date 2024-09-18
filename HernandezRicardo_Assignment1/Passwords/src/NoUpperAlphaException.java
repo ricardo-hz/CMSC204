@@ -1,5 +1,6 @@
 /**
  * Thrown when the password does not contain an uppercase alphabetic character
+ * @author Ricardo Hernandez
  */
 public class NoUpperAlphaException extends Exception{
 	public NoUpperAlphaException() {

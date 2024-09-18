@@ -1,8 +1,11 @@
 import java.util.ArrayList;
 import java.util.regex.*;
 
+/**
+ * Utility class for PasswordChecker GUI
+ * @author Ricardo Hernandez
+ */
 public class PasswordCheckerUtility {
-	//Constructors
 	//Fields
 	private static int MINIMUM_PASSWORD_LENGTH = 6;
 	//Methods
